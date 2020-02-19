@@ -10,7 +10,7 @@ package program1;
  * @author Navpreet Kaur Jhajj
  */
 public class Program1 {
-
+//MERA ANSHUK>>>>>>
     /**
      * @param args the command line arguments
      */
