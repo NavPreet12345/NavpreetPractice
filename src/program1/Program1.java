@@ -18,7 +18,7 @@ public class Program1 {
       int a;
         int b;
      
-    
+    int sum = a+b;
     
     }
     
